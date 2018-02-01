@@ -4,10 +4,11 @@ This repository contains various color palettes for TU Darmstadt's Corporate Des
 
 ## Available Palettes
 
-| Palette | Works with     |
-| ------- | -------------- |
-| tud.gpl | Inkscape, Gimp |
-| tud.soc | LibreOffice    |
+| Palette       | Works with     |
+| ------------- | -------------- |
+| tud.gpl       | Inkscape, Gimp |
+| tud.soc       | LibreOffice    |
+| TUDColor.java | Java interface |
 
 
 ## Installation
