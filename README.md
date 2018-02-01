@@ -21,6 +21,6 @@ Clone this repository and symlink (or copy) the color palette into the palettes 
 Download the file of your choice and place it in the palettes directory of the respective program.
 
 
-### Contribution
+## Contribution
 
 Feel free to contribute more palettes. Do not forget to add the new palette to the table above.
