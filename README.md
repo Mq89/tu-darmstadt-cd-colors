@@ -2,6 +2,10 @@
 
 This repository contains various color palettes for TU Darmstadt's Corporate Design.
 
+The reference document of the Corporate Design can be found at:
+
+https://www.tu-darmstadt.de/kommunikation_und_medien/corporate_design_1/index.en.jsp
+
 ## Available Palettes
 
 | Palette       | Works with     |
