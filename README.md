@@ -24,4 +24,4 @@ Download the file of your choice and place it in the palettes directory of the r
 
 ## Contribution
 
-Feel free to contribute more palettes. Do not forget to add the new palette to the table above.
+Feel free to contribute more palettes or extend existing ones. Do not forget to add new palettes to the table above.
