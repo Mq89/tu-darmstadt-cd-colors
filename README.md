@@ -8,11 +8,13 @@ https://www.tu-darmstadt.de/kommunikation_und_medien/corporate_design_1/index.en
 
 ## Available Palettes
 
-| Palette       | Works with     |
-| ------------- | -------------- |
-| tud.gpl       | Inkscape, Gimp |
-| tud.soc       | LibreOffice    |
-| TUDColor.java | Java interface |
+| Palette       | Works with                   |
+| ------------- | ---------------------------- |
+| tud.gpl       | Inkscape, Gimp               |
+| tud.soc       | LibreOffice                  |
+| tud.clr       | MacOS (Pages, Keynote, etc.) |
+| TUDColor.java | Java interface               |
+| tud.json      | JSON object                  |
 
 
 ## Installation
